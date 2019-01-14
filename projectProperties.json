@@ -1,0 +1,282 @@
+{
+    "APPLICATION_THEME": "default",
+    "accountCloudGuid": "835ccb99-10d9-49bd-b22c-665affc20a25",
+    "appaddrkey": "",
+    "appidkey": "NewsAndWeather",
+    "appmenu": {
+        "desktop": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "f1415239e1be435c9d8db076671888e9",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "ibbe0f191eea4360af0a4a5e96744967",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "cb76f1b662194e2b80afd5d9a8d2bf77",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "ca85f3cc6c2b437880bcee0bdae59240",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "focusSkin": null,
+        "focusskin": null,
+        "mobile": {
+            "data": [
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "d0faea22308f4fbfb6d2c0f7241b0e72",
+                    "title": "Item 1"
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "i2d40f2dc1544c0a8448c468a6b7b9f1",
+                    "title": "Item 2"
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "d510fbe0e20840c6a8a50e4e116ee649",
+                    "title": "Item 3"
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "j2f0e0e2cd9042f6ad0d373981433d64",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "osPlatform": "",
+        "osVersion": "iOS7",
+        "skin": null,
+        "tablet": {
+            "data": [
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "e65c85911d8b4ee2b99f3ee2237eba32",
+                    "title": "Item 1",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "f6e899d608b54838b7fb6e0db8332e0c",
+                    "title": "Item 2",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "e014ec29ff2c445c9863d8cfe73a330f",
+                    "title": "Item 3",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "f9ded858c73544feb8b70e4fa67e5e06",
+                    "title": "Item 4",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                }
+            ]
+        },
+        "wType": "Appmenu"
+    },
+    "appnamekey": "NewsAndWeather",
+    "apppackagekey": "",
+    "appversionkey": "1.0.0",
+    "build": "debug",
+    "category": "app",
+    "cordovaModified": false,
+    "cordovaVersionInfo": {
+        "useGlobalCordova": false
+    },
+    "createdVizVersion": "8.0.0",
+    "createdgaversion": "8.0.0",
+    "currentgaversion": "8.3.14",
+    "defaultlocalekey": "en_US",
+    "defaulttheme": "defaultTheme",
+    "desktopstartupformkey": "",
+    "desktopwebbasefontsize": "12",
+    "enableCordova": false,
+    "enableCustomData": false,
+    "enableIdForAutomation": false,
+    "enableactionbar": false,
+    "ide_appEvents": {
+        "mobile": {
+            "appservice": "AS_AppEvents_be321f0d17f149e29b3df2a8d032e4f5"
+        }
+    },
+    "isA11yConfigEnabled": false,
+    "isDeveloperMode": "false",
+    "isDpScaleFactor": true,
+    "isMVC": true,
+    "isNewAppWithRespectToAndroidPackageName": "",
+    "kfAppInfo": {
+        "3b767d5a-e7ff-4470-8325-2ebe66b1427f": {
+            "baseId": "b8390f51-cbba-4ba0-bcb9-422ba5cc3e6c",
+            "id": "b8390f51-cbba-4ba0-bcb9-422ba5cc3e6c",
+            "version": "1.0"
+        },
+        "8073157c-9cc8-4394-8441-0817ff77a4a3": {
+            "baseId": "2190ffa2-5a83-432f-b230-0548e0e65671",
+            "id": "2190ffa2-5a83-432f-b230-0548e0e65671",
+            "version": "1.0"
+        },
+        "835ccb99-10d9-49bd-b22c-665affc20a25": {
+            "baseId": "546a9ba1-be9d-4258-a148-d4878c247e1b",
+            "id": "546a9ba1-be9d-4258-a148-d4878c247e1b",
+            "version": "1.0"
+        },
+        "944ad2ba-2fd3-42bc-a25a-88723d35827e": {
+            "baseId": "f8e1cad5-4d3a-41f7-aae9-381f7454ffdc",
+            "id": "f8e1cad5-4d3a-41f7-aae9-381f7454ffdc",
+            "version": "1.0"
+        },
+        "e1443d69-6236-4036-92ef-74be1ec36f36": {
+            "id": "381416d6-98f8-482c-b767-28cdfa78eda6",
+            "baseId": "381416d6-98f8-482c-b767-28cdfa78eda6",
+            "appName": "NewsAndWeather",
+            "version": "1.0"
+        }
+    },
+    "konyVizVersion": "8.3.14",
+    "mastersProperties": {
+        "mastersVersion": "2.0.0"
+    },
+    "mwaddrkey": "",
+    "mwhttpsportkey": "",
+    "mwportkey": "",
+    "nativeContainerProperties": {
+        "isModified": false,
+        "isEnableJSContainer": true,
+        "isEnableJSContainerAndroid": true,
+        "isEnableJSContaineriOS": true
+    },
+    "project.type": "js",
+    "projectCloudGuid": "75afef96-b1a4-4d9c-ac0a-d2bb7f712cb3",
+    "project_version": "sprint32",
+    "prototype": {
+        "PublishMode": "protected",
+        "createdBy": "vigneshwaran karunanithi",
+        "createdById": "0a5edadb-25be-4b72-8fb7-d2f25049e5d0",
+        "createdOn": "2017-11-23T13:44:20.369Z",
+        "resourceId": "124f9254-8ec0-4852-a73b-004f50bcf536",
+        "shareGuid": "FDLWF"
+    },
+    "referenceWidth": "375",
+    "startupformkey": "f93855e1d3b047d085031fae86b2f695",
+    "statusBarHidden": "false",
+    "vendornamekey": "KonyLabs",
+    "wap_android240_fontsize": "12",
+    "wap_android320_fontsize": "12",
+    "wap_android360_fontsize": "12",
+    "wap_android400_fontsize": "12",
+    "wap_android440_fontsize": "12",
+    "wap_android480_fontsize": "12",
+    "wap_android640_fontsize": "12",
+    "wap_bb240_fontsize": "12",
+    "wap_bb320_fontsize": "12",
+    "wap_bb360_fontsize": "12",
+    "wap_bb400_fontsize": "12",
+    "wap_bb440_fontsize": "12",
+    "wap_bb480_fontsize": "12",
+    "wap_ip_fontsize": "12",
+    "wap_spaandroidtab_fontsize": "12",
+    "wap_spaandroidtabhdpi_fontsize": "12",
+    "wap_spaandroidtabldpi_fontsize": "12",
+    "wap_spaandroidtabmdpi_fontsize": "12",
+    "wap_spaipad_fontsize": "12",
+    "wap_spawindowstab_fontsize": "12",
+    "wap_winphone320_fontsize": "12",
+    "wap_winphone480_fontsize": "12",
+    "watchos_companionSettings2x29": "",
+    "watchos_companionSettings3x29": "",
+    "watchos_homeScreen40": "",
+    "watchos_longlooknotificationicon_42": "",
+    "watchos_notificationcentericon_38": "",
+    "watchos_notificationcentericon_42": "",
+    "watchos_shortlooknotificationicon_38": "",
+    "watchos_shortlooknotificationicon_42": "",
+    "watchos_watchMarketing1x": "",
+    "winmobileguidkey": "",
+    "cloud_account_guid": "e1443d69-6236-4036-92ef-74be1ec36f36",
+    "cloud_env_GUID": "3984d3f9-f203-4c64-bffe-cde79d4ce5e4"
+}
